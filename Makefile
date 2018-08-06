@@ -1,5 +1,5 @@
 # VARIABLES
-PACKAGE="https://github.com/LukeJoeDavis/moql/moql"
+PACKAGE="github.com/LukeJoeDavis/moql"
 BINARY_NAME="moql"
 
 default: usage
